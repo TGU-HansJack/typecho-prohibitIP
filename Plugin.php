@@ -2,7 +2,7 @@
 /**
  * 禁止国外、港澳台IP访问，支持自定义IP黑名单
  * @package ProhibitIP
- * @author culturesun
+ * @author culturesun,HansJack
  * @version 1.2
  * @update: 2024.03.15
  * @link https://culturesun.site
